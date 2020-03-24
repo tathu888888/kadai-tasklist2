@@ -48,7 +48,7 @@ public class Task {
     }
 
     public String getTask(){
-        return task;
+        return task; 
     }
 
     public void setTask(String task) {
